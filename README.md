@@ -1,2 +1,2 @@
-hitesh kumar s-231801059
-(pyhton weeks)
+HITESH KUMAR S-231801059
+(PYTHON WEEKS)
